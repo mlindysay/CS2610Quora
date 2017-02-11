@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         CS2610 Quora
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/mlindysay/CS2610Quora
 // @version      1.0
-// @description  Avoid Quora login wall by appending share=1 to query string.
+// @description  Avoid Quora login wall by appending ?share=1 to query string.
 // @author       Mark Lindsay
 // @match           *://quora.com/*
 // @match           *://www.quora.com/*
